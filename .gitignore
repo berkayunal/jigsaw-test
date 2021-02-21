@@ -1,0 +1,20 @@
+/build_local/
+/build_prod/
+/build_production/
+/cache/
+/source/assets/build/
+/source/assets/build/mix-manifest.json
+/node_modules/
+/vendor/
+/.idea/
+/.vscode/
+/tmp/
+npm-debug.log
+yarn-error.log
+test.php
+.env
+
+# Optional ignores
+# /build_staging/
+# /build_production/
+# /source/assets/build/
